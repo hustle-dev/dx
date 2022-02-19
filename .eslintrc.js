@@ -21,7 +21,7 @@ module.exports = {
     ecmaVersion: 'latest',
     sourceType: 'module',
   },
-  plugins: ['react', '@typescript-eslint'],
+  plugins: ['react', '@typescript-eslint', 'react-hooks', 'jsx-a11y'],
   rules: {
     'linebreak-style': 0,
     'import/prefer-default-export': 0,
@@ -36,6 +36,7 @@ module.exports = {
     'jsx-a11y/no-noninteractive-element-interactions': 0,
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
+    'react/react-in-jsx-scope': 'off',
     '@typescript-eslint/no-var-requires': 'off',
   },
 };
