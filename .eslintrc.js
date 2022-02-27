@@ -38,5 +38,7 @@ module.exports = {
     'react-hooks/exhaustive-deps': 'warn',
     'react/react-in-jsx-scope': 'off',
     '@typescript-eslint/no-var-requires': 'off',
+    'default-param-last': 'off',
+    'no-plusplus': 'off',
   },
 };
