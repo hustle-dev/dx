@@ -15,3 +15,7 @@ Front-end 툴체인 템플릿
 - vite/react-ts: vites typescript template
 
 > 명령어: degit hustle-dev/dx#vite/react-ts <folder>
+
+- cra/react-ts-storybook: create-react-app --typescript template + eslint, prettier + storybook
+
+> 명령어: degit hustle-dev/dx#cra/react-ts-storybook
