@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# Next.js build output
+.next
+out
 
 # production
 /build
