@@ -19,3 +19,7 @@ Front-end 툴체인 템플릿
 - cra/react-ts-storybook: create-react-app --typescript template + eslint, prettier + storybook
 
 > 명령어: degit hustle-dev/dx#cra/react-ts-storybook
+
+- next/ts-storybook: yarn create next-app --typescript template + eslint, prettier, storybook
+
+> 명령어: degit hustle-dev/dx#next/ts-storybook
